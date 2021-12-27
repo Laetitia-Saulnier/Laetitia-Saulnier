@@ -3,9 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<br>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub%20Page!;Here%20Laetitia;Enthousiast%20web%20and%20app%20developer;Always%20learning%20new%20things;Loving%20coding%20and%20designing;Front%20and%20Back%20sides&font=Fira%20Code&center=true&width=440&height=45&color=#58a6ffc&vCenter=true&size=22"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub%20Page!;Here%20Laetitia;Enthousiast%20web%20and%20app%20developer;Always%20learning%20new%20things;Loving%20coding%20and%20designing;Front%20and%20Back%20sides&font=Fira%20Code&center=true&width=440&height=45&color=#58a6ffc&vCenter=true&size=22">
 </p>
 <br/>
 
