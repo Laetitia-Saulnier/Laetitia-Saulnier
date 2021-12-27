@@ -11,7 +11,7 @@
 
 <!-- https://github.com/Laetitia-Saulnier/github-readme-stats -->
 <details align="center"> 
-  <summary> 	&#127922; GitHub Stats 	&#127922; </summary>
+  <summary> 	&#127922; A bit of stats 	&#127922; </summary>
   <br/>
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Laetitia-Saulnier&theme=dark&show_icons=true&count_private=true)
@@ -40,6 +40,8 @@
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Test
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Cloud hosting
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -54,13 +56,9 @@
 ![eslint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Contact me 
+# Contact me 
 
-    
-  <a href="mailto:lc.saulnier@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-%46D36A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/laetitia-saulnier" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin-%46D36A.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://discord.com/channels/@me" alt="Discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lc.saulnier@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Laetitia-Saulnier/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
