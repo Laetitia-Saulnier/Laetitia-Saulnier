@@ -43,8 +43,8 @@
 
 ### Testing
 
-![insomnia](https://img.shields.io/badge/Insomnia-430098?style=for-the-badge&logo=insomnia&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-430098?style=for-the-badge&logo=postman&logoColor=white)
+![insomnia](https://img.shields.io/badge/Insomnia-4000bf?style=for-the-badge&logo=insomnia&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Cloud hosting
