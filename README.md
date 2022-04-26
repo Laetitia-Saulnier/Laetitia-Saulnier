@@ -1,6 +1,6 @@
 <h3 align="center">
  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="28">
 </h3>
 
 <br>
