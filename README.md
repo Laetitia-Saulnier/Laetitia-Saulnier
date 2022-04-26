@@ -1,5 +1,5 @@
 <h3 align="center">
- Hi there
+ Hi there 
   <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="28">
 </h3>
 
